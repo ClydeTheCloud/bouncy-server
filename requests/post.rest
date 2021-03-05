@@ -1,0 +1,7 @@
+POST  http://localhost:3001/score
+content-type: application/json
+
+{
+	"name": "aaanew",
+	"score": 6
+}
